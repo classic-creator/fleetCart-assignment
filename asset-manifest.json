@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fleetCart-assignment/static/css/main.b0a131f8.css",
+    "main.js": "/fleetCart-assignment/static/js/main.4e669ec8.js",
+    "static/media/playstore.png": "/fleetCart-assignment/static/media/playstore.82b4831979e0ce7c733e.png",
+    "static/media/Appstore.png": "/fleetCart-assignment/static/media/Appstore.d0c5839937e3c36285f6.png",
+    "index.html": "/fleetCart-assignment/index.html",
+    "main.b0a131f8.css.map": "/fleetCart-assignment/static/css/main.b0a131f8.css.map",
+    "main.4e669ec8.js.map": "/fleetCart-assignment/static/js/main.4e669ec8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0a131f8.css",
+    "static/js/main.4e669ec8.js"
+  ]
+}
